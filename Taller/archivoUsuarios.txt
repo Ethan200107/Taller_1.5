@@ -1,0 +1,15 @@
+Nino1 ninopass1 8 niño1@example.com
+Nino2 ninopass2 7 niño2@example.com
+Nino3 ninopass3 6 niño3@example.com
+Nino4 ninopass4 9 niño4@example.com
+Jose 123123 30 admin@admin.cl true
+Usuario1 userpass1 28 usuario1@example.com
+Usuario2 userpass2 24 usuario2@example.com
+Usuario3 userpass3 32 usuario3@example.com
+Usuario4 userpass4 40 usuario4@example.com
+Usuario5 userpass5 19 usuario5@example.com
+Usuario6 userpass6 51 usuario6@example.com
+Usuario7 userpass7 22 usuario7@example.com
+Usuario8 userpass8 37 usuario8@example.com
+Usuario9 userpass9 29 usuario9@example.com
+Usuario10 userpass10 26 usuario10@example.com
