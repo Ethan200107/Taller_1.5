@@ -1,5 +1,6 @@
 # Taller_1.5
 Taller de Estructura
+Ahora con lectura de txt!
 # Taller1.1
 Taller 1 de Estructura de datos  
 admin1: { usuario:"Jose"; contraseña:"123123"; edad:"30"; correo:"admin@admin.cl"; log:"true"}.
