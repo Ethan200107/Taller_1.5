@@ -1,0 +1,39 @@
+Juego,Call of Duty,Activision,18,8,Usuario1,Usuario3,Usuario4,Usuario5,Usuario7,Usuario8,Usuario9,Usuario10,50,Shooter,Action,Multiplayer,Single Player
+Juego,The Legend of Zelda,Nintendo,10,4,Nino1,Nino2,Nino3,Nino4,10,Adventure,Role-Playing,Open World
+Juego,Grand Theft Auto V,Rockstar Games,18,8,Usuario1,Usuario2,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,55,Action,Adventure,Open World,Multiplayer
+Juego,Minecraft,Mojang,7,4,Nino1,Nino2,Nino3,Nino4,45,Sandbox,Adventure,Multiplayer,Single Player
+Juego,Fortnite,Epic Games,13,4,Nino1,Nino2,Nino3,Nino4,0,Battle Royale,Shooter,Multiplayer,Single Player
+Juego,Among Us,InnerSloth,10,4,Nino1,Nino2,Nino3,Nino4,11,Party,Multiplayer
+Juego,League of Legends,Riot Games,13,4,Nino1,Nino2,Nino3,Nino4,0,MOBA,Multiplayer
+Juego,Overwatch,Blizzard Entertainment,13,4,Nino1,Nino2,Nino3,Nino4,50,Hero Shooter,Team-Based,Multiplayer
+Juego,The Sims 4,Electronic Arts,13,4,Nino1,Nino2,Nino3,Nino4,50,Life Simulation,Single Player
+Juego,Resident Evil Village,Capcom,18,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,50,Horror,Survival,Action,Single Player
+Juego,Super Mario Odyssey,Nintendo,10,4,Nino1,Nino2,Nino3,Nino4,50,Platformer,Adventure,Single Player
+Juego,The Witcher 3: Wild Hunt,CD Projekt,18,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,50,Action RPG,Open World,Single Player
+Juego,Red Dead Redemption 2,Rockstar Games,18,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,50,Action-Adventure,Open World,Single Player
+Juego,Cyberpunk 2077,CD Projekt,18,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,50,Open World,Action RPG,Single Player
+Juego,Counter-Strike: Global Offensive,Valve Corporation,18,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,50,First-Person Shooter,Multiplayer
+Juego,Valorant,Riot Games,16,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,50,First-Person Shooter,Hero Shooter,Multiplayer
+Juego,Hollow Knight,Team Cherry,7,4,Nino1,Nino2,Nino3,Nino4,50,Platformer,Adventure,Single Player
+Juego,Celeste,Matt Makes Games,7,4,Nino1,Nino2,Nino3,Nino4,50,Platformer,Indie,Single Player
+Juego,Rocket League,Psyonix,3,4,Nino1,Nino2,Nino3,Nino4,50,Sports,Racing,Multiplayer
+Juego,Stardew Valley,ConcernedApe,7,4,Nino1,Nino2,Nino3,Nino4,50,Farming,Simulation,Single Player
+Ofimatica,Microsoft Office,Microsoft,0,1,Nino1,10,4
+Ofimatica,LibreOffice,The Document Foundation,0,1,Nino2,0,6
+Ofimatica,Google Docs,Google,0,1,Nino3,0,5
+Ofimatica,WPS Office,Kingsoft Office Software,0,1,Nino4,5,8
+Ofimatica,Apache OpenOffice,Apache Software Foundation,0,4,Nino1,Nino2,Nino3,Nino4,0,7
+Produccion,Adobe Premiere,Adobe,16,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,200,Video
+Produccion,Final Cut Pro,Apple,16,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,300,Video
+Produccion,Logic Pro X,Apple,16,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,199,Audio
+Produccion,Ableton Live,Ableton,16,8,Usuario1,Usuario3,Usuario4,Usuario6,Usuario7,Usuario8,Usuario9,Usuario10,449,Audio
+Navegador,Google Chrome,Google,0,4,Nino1,Nino2,Nino3,Nino4,0,https://www.google.com,https://www.youtube.com,https://www.facebook.com,https://www.twitter.com,https://www.amazon.com,https://www.netflix.com,https://www.linkedin.com,https://www.instagram.com,https://www.spotify.com,https://www.pinterest.com,https://www.github.com,https://www.stackoverflow.com
+Navegador,Mozilla Firefox,Mozilla,0,4,Nino1,Nino2,Nino3,Nino4,0,https://www.mozilla.org,https://www.reddit.com,https://www.wikipedia.org,https://www.gmail.com,https://www.yahoo.com,https://www.bing.com,https://www.twitch.tv,https://www.quora.com,https://www.aliexpress.com,https://www.walmart.com,https://www.apple.com,https://www.msn.com
+Seguridad,McAfee,McAfee,0,1,Jose,50,troyanos
+Seguridad,Norton Antivirus,NortonLifeLock,0,1,Jose,45,gusanos
+Seguridad,Avast Antivirus,Avast,0,1,Jose,0,Ransomware
+Seguridad,Bitdefender,Bitdefender,0,1,Jose,60,Spyware
+Seguridad,Kaspersky,Kaspersky Lab,0,1,Jose,55,botnets
+Seguridad,Windows Defender,Microsoft,0,1,Jose,0,rootkits
+Social,Facebook,Meta Platforms,13,4,Nino1,Nino2,Nino3,Nino4,100,Nino1,2,Nino2,Nino3
+Social,Instagram,Meta Platforms,13,4,Nino1,Nino2,Nino3,Nino4,100,Nino2,2,Nino4,Nino3

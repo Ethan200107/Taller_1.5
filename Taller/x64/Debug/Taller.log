@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Taller.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Admin.cpp
+  Juego.cpp
+  Navegador.cpp
+  ofmatica.cpp
+  Produccion.cpp
+  Seguridad.cpp
+  social.cpp
+  Sorftwer.cpp
+  main.cpp
+  Usuario.cpp
+  Usuarionino.cpp
+  UsuarioNorm.cpp
+  Generating Code...
+  Taller.vcxproj -> C:\Users\ethan\source\repos\Taller\x64\Debug\main.exe
